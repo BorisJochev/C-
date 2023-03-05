@@ -1,0 +1,15 @@
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\bin\Debug\net6.0\SEDC.Homework_02.SumOfEven.exe
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\bin\Debug\net6.0\SEDC.Homework_02.SumOfEven.deps.json
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\bin\Debug\net6.0\SEDC.Homework_02.SumOfEven.runtimeconfig.json
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\bin\Debug\net6.0\SEDC.Homework_02.SumOfEven.dll
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\bin\Debug\net6.0\SEDC.Homework_02.SumOfEven.pdb
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.csproj.AssemblyReference.cache
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.AssemblyInfo.cs
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.dll
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\refint\SEDC.Homework_02.SumOfEven.dll
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.pdb
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\SEDC.Homework_02.SumOfEven.genruntimeconfig.cache
+C:\Users\Z1\Desktop\Homework  C#\SEDC.Homework_02\SEDC.Homework_02.SumOfEven\obj\Debug\net6.0\ref\SEDC.Homework_02.SumOfEven.dll
